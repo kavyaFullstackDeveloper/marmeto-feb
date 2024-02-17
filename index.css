@@ -30,3 +30,7 @@ content: '';
 a, ins {
 text-decoration: none;
 }
+.insta-logo{
+    height: 22px;
+    width: 22px;
+}
